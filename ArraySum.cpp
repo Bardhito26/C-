@@ -19,6 +19,6 @@ int main() {
 			position2 = a + 1;
 		}
 	}
-	cout <<"The numbers that correspond to the target: "<< "[" << position1 << "," << position2 << "]";
+	cout <<"The numbers that correspond to the target: "<< "[" << position1 + 1 << "," << position2 + 1 << "]";
 
 }
